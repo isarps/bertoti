@@ -16,6 +16,8 @@
 
 # :open_file_folder: Projetos
 
+- <a href="https://github.com/isarps/bertoti/blob/main/tg1/projeto1.md">Projeto 1 - G6</a>
+
 <hr/>
 
 # :email:	Contatos
