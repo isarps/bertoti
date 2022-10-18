@@ -9,10 +9,19 @@
 
 # :page_facing_up: Introdução
 
-<img src="https://user-images.githubusercontent.com/49652498/196556612-11ef1b7b-a7d9-487b-88ca-16d20cba08a2.png" width=25%/>
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/49652498/196556970-d6c1be4c-dbb2-4c3d-905d-b2fbd30359cf.png" />
+    </td>
+    <td>
+      <p> Olá! Sou a Isabella Segundo, estudante de Banco de Dados na FATEC Prof° Jessen Vidal, em São José dos Campos. </p>
+      <p> Tenho 21 anos, sou técnica em Informática pela ETEC Machado de Assis (Caçapava) e cursei três semestres de Análise e Desenvolvimento de Sistemas na FATEC.          Atualmente, atuo como Programadora Junior na IACIT. </p>
+    </td>
+  </tr>
+</table>
 
-<p> Olá! Sou a Isabella Segundo, estudante de Banco de Dados na FATEC Prof° Jessen Vidal, em São José dos Campos. </p>
-<p> Tenho 21 anos, sou técnica em Informática pela ETEC Machado de Assis (Caçapava) e cursei três semestres de Análise e Desenvolvimento de Sistemas na FATEC. Atualmente, atuo como Programadora Junior na IACIT. </p>
+
 
 <hr/>
 
