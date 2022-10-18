@@ -16,6 +16,10 @@ Criar um sistema de digitação e edição de contas <br/>
 Fui responsável pela criação das classes iniciais e do Login do sistema, utilizando a linguagem Java.
 
 ### :potted_plant: Skills
+#### Hard Skills
+Este projeto foi importante para a aplicação da base da utilização da linguagem Java, aplicando princípios da orientação a objetos.
 
+#### Soft Skills
+Foi um projeto importante para o desenvolvimento do trabalho em equipe e da organização para a execução das atividades atribuídas a cada um.
 
 ### <a href="https://github.com/rangelandrade/PI-GRUPO-6"> :link: Repositório Original </a>
