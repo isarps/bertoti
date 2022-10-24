@@ -16,6 +16,13 @@ A meta do projeto é apresentar ao cliente, a empresa VISIONA, uma solução par
 - **QGIS:** QGIS é um software livre com código-fonte aberto, multiplataforma de sistema de informação geográfica que permite a visualização, edição e análise de dados georreferenciados. Foi utilizado para a análise e verificação dos arquivos Shapefile.
 
 ### :writing_hand: Contribuições Pessoais
-Auxiliei na documentação e na análise dos Shapefiles no QGIS
+Auxiliei na documentação (Readme, User Stories, Wireframes, Modelagem do Banco de Dados) e na análise dos Shapefiles no QGIS, realizando o download e leitura dos arquivos referentes ao CAR (Cadastro Ambiental Rural).
+
+### :potted_plant: Skills
+#### Hard Skills
+Neste projeto houve o primeiro contato com um banco de dados com georreferenciamento (PostGIS), além da utilização do Java para o desenvolvimento da aplicação e a utilização do QGIS para ler os Shapefiles.
+
+#### Soft Skills
+O comprometimento com a equipe foi o ponto forte neste projeto, mantendo as reuniões frequentes para acompanhamento e desenvolvimento do projeto.
 
 ### <a href="https://gitlab.com/junio.sendreto/projeto_pi3"> :link: Repositório Original </a>
