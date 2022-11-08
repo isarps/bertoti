@@ -33,7 +33,9 @@ Desenvolvido pela DevStore, este projeto possui como objetivo contruir uma aplic
 
 ### :potted_plant: Skills
 #### Hard Skills
+Este foi o primeiro projeto criado como API, com backend e frontend. Trabalhei com foco no backend, mas também auxiliei no frontend, dando suporte aos colegas por já ter certa familiaridade com as tecnologias utilizadas. A maior dificuldade foi na utilização do ReactJS pois ainda não conhecíamos muito o framework, que precisou de um esforço maior para estudá-lo e aprender como funciona.
 
 #### Soft Skills
+Este projeto exigiu bastante disciplina e proatividade, além do trabalho em equipe.
 
 ### <a href="https://gitlab.com/vitorlimadomingues/3periodo_devstore"> :link: Repositório Original </a>
