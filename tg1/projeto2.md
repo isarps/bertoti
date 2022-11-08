@@ -20,7 +20,7 @@ Auxiliei na documentação (Readme, User Stories, Wireframes, Modelagem do Banco
 
 ### :potted_plant: Skills
 #### Hard Skills
-Neste projeto houve o primeiro contato com um banco de dados com georreferenciamento (PostGIS), além da utilização do Java para o desenvolvimento da aplicação e a utilização do QGIS para ler os Shapefiles.
+Neste projeto houve o primeiro contato com um banco de dados com georreferenciamento (PostGIS), além da utilização do Java para o desenvolvimento da aplicação e a utilização do QGIS para ler os Shapefiles. Foi um projeto no qual precisei de apoio dos colegas para executar minhas atividades.
 
 #### Soft Skills
 O comprometimento com a equipe foi o ponto forte neste projeto, mantendo as reuniões frequentes para acompanhamento e desenvolvimento do projeto.
