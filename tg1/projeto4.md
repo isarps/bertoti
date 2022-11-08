@@ -31,7 +31,9 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação p
 
 ### :potted_plant: Skills
 #### Hard Skills
+Neste projeto auxiliei tanto no backend quanto no frontend, sendo que no backend houve maior facilidade, dando também suporte a equipe, e no frontend foi o primeiro contato com o VueJS, com certa dificuldade no início mas fomos estudando e nos adaptando à sua utilização.
 
 #### Soft Skills
+Neste projeto desenvolvi melhor a comunicação, mantendo contato mais frequente e próximo com a equipe.
 
 ### <a href="https://github.com/EquipeFatec/api"> :link: Repositório Original </a>
