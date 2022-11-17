@@ -60,9 +60,10 @@ Desenvolvido pela DevStore, este projeto possui como objetivo contruir uma aplic
 - **IntelliJ IDE:** O IntelliJ IDEA é um ambiente de desenvolvimento integrado. Foi utilizado para o desenvolvimento do back-end.
 - **PostgreSQL:** Foi utilizado para o desenvolvimento do Banco de Dados da aplicação.
 - **DBeaver:** Utilizado para a administração do banco de dados.
-- **GitHub:** Utilizado para repositório e controle de código do projeto.
+- **GitLab:** Utilizado para repositório e controle de código do projeto.
 
 ### :writing_hand: Contribuições Pessoais
+- Documentação
 - Arquitetura inicial do projeto (Backend, Frontend e Banco de Dados)
 - Cadastro de Usuário
 - Envio de e-mail
@@ -75,7 +76,7 @@ Desenvolvido pela DevStore, este projeto possui como objetivo contruir uma aplic
 - :green_circle: SpringBoot/Java
 - :yellow_circle: ReactJS
 - :green_circle: PostgreSQL 
-- :green_circle: GitHub
+- :green_circle: GitLab
 <p><sub><i>Legenda: :green_circle:	Sei fazer | :yellow_circle:	Sei fazer com ajuda/com dificuldade | :red_circle: Apenas ouvi falar </i></sub></p>
 
 #### Soft Skills
