@@ -39,6 +39,7 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação p
 - **GitHub:** Utilizado para repositório e controle de código do projeto.
 
 ### :writing_hand: Contribuições Pessoais
+- Documentação
 - Arquitetura inicial do projeto (Backend, Frontend e Banco de Dados)
 - Dashboard com Gráficos e Cards
 - Frontend Importação CSV
