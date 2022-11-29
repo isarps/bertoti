@@ -2,7 +2,8 @@
 2° Semestre de 2021 <br/>
 
 ### :office: Empresa Parceira
-IACIT <br/>
+![image](https://user-images.githubusercontent.com/49652498/204661000-8d8df5cb-ff87-40a2-98e4-3a197bea511b.png) <br/>
+A IACIT foi fundada em 1986, com sede em São José dos Campos (SP), e possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados às áreas de Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação; Telemetria e Agronegócio.
 
 ### :dart:	Descrição da Solução
 Devido ao grande crescimento do Home Office, muitas empresas de tecnologia precisaram se adequar conforme as necessidades das equipes de desenvolvimento, envolvendo a parte de planejamento. No entanto, é notável a dificuldade em encontrar sistemas para auxiliar nesta questão, principalmente para times que trabalham utilizando a metodologia Scrum. <br/>
