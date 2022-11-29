@@ -2,7 +2,8 @@
 1° Semestre de 2021 <br/>
 
 ### :office: Empresa Parceira
-VISIONA <br/>
+![image](https://user-images.githubusercontent.com/49652498/204660571-7bcd300c-9fc5-4987-9ee4-85acaed67121.png) <br/>
+A Visiona Tecnologia Espacial é uma joint-venture entre a Embraer Defesa & Segurança e a Telebras, voltada para a integração de sistemas espaciais. Criada em 2012 para atender os objetivos do Programa Nacional de Atividades Espaciais (PNAE) e do Programa Estratégico de Sistemas Espaciais (PESE).
 
 ### :dart:	Descrição da Solução
 A meta do projeto é apresentar ao cliente, a empresa VISIONA, uma solução para o problema de não ter uma base de dados comunizada, unificada e organizada dos registros que são disponibilizados pelos proprietários das áreas rurais, através do cadastro ambiental rural CAR. E possuimos como objetivo desenvolver um MVP que forneça ao cliente uma base de dados completa, confiável e organizada com as informações oriundas do sistema CAR. Sendo utilizado  ferramentas do ciclo de aprendizado e metodologia Scrum (entregas e desenvolvimento ágil), nas sprints demonstraremos e entregaremos de forma gradativa desde a aquisição, leitura e depuração das informações até a construção e finalização do banco de dados. <br/>
