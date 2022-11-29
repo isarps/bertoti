@@ -2,7 +2,9 @@
 2° Semestre de 2020 <br/>
 
 ### :office: Empresa Parceira
-TecSUS <br/>
+![image](https://user-images.githubusercontent.com/49652498/204660358-bf479de6-3ee5-4360-b9b0-5936f1866fe8.png) <br/>
+A Tecsus é uma startup fundada em 2013 que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Aplicados nos setores de abastecimento de água, distribuição de eletricidade e gás natural.
+
 
 ### :dart:	Descrição da Solução
 A proposta é um sistema de digitação e edição de contas, que envolve um agente digitador, com as opções de filtrar e selecionar o tipo de conta desejado referente a um cliente em determinado mês/ano. O digitador precisa verificar contas de luz, água e gás. <br/>
