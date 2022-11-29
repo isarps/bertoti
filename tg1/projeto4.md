@@ -2,7 +2,8 @@
 1° Semestre de 2022 <br/>
 
 ### :office: Empresa Parceira
-Oracle <br/>
+<img src="https://user-images.githubusercontent.com/49652498/204661338-8d561001-fda9-45a9-9671-5cc57bb449ca.png" width='20%'/><br/>
+A Oracle Corporation é uma empresa multinacional de tecnologia e informática norte-americana , especializada no desenvolvimento e comercialização de hardware e softwares e de banco de dados. Foi fundada em 1977.
 
 ### :dart:	Descrição da Solução
 Uma empresa de calçados tem necessidade de conhecer melhor os seus clientes e segmentá-los para descobrir novas demandas de produtos, melhorando a visibilidade da base de clientes. Essa aplicação também pode auxiliar na tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos. <br/>
