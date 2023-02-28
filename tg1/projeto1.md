@@ -67,7 +67,12 @@ A proposta é um sistema de digitação e edição de contas, que envolve um age
 
 ### :writing_hand: Contribuições Pessoais
 - Documentação
+  - Apoio no desenvolvimento dos manuais Técnico e do Usuário
+  - Reuniões com a equipe para definição dos Story Cards
+  - Modelagem do Banco de Dados
 - Classes iniciais
+  - Model de Login, Usuario, Cliente e ContaLuz
+  - View de Login
 - Login do sistema
 
 ### :potted_plant: Skills
